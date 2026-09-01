@@ -29,12 +29,8 @@ O objetivo não é apenas sobreviver: para completar o feitiço da Cuca e vencer
 ---
 
 ## Capturas de tela
+<div align="center"> <div style="display: flex; justify-content: center; gap: 10px;"> <img src="./img/tela1_readme.png" width="450" alt="Tela inicial do jogo" /> <img src="./img/win_readme.png" width="450" alt="Jogabilidade e coleta de itens" /> </div><img src="./img/gameover_readme.png" width="450" alt="Tela de game over" /> </div>
 
-<p align="center">
-  <img src="./img/tela1_readme.png" width="450" alt="Tela inicial do jogo" />
-  <img src="./img/win_readme.png" width="450" alt="Jogabilidade e coleta de itens" />
-  <img src="./img/gameover_readme.png" width="450" alt="Tela de game over" />
-</p>
 
 ---
 
